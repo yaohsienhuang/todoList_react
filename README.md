@@ -14,6 +14,6 @@
 ### 資源：
 * [TodoList設計稿](https://www.figma.com/file/pFivfS3rDX3N3u3dN9aIlx/TodoList?node-id=0%3A1)
 
-### 參閱書籍
+### 參考
 * [從 Hooks 開始，讓你的網頁 React 起來（iT邦幫忙鐵人賽系列)](https://www.books.com.tw/products/E050080162?sloc=main)
 > 部落格 ： https://ithelp.ithome.com.tw/users/20103315/ironman/2668?page=2
